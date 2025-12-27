@@ -10,11 +10,3 @@ This code is to create a proveably random smart contract lottery.
 2. The lottery should automatically and programmatically draw a winner after a certain period.
 3. Chainlink VRF should generate a provably random number.
 4. Chainlink Automation should trigger the lottery draw regularly.
-
-##Tests!
-
-1. Write deploy scripts
-2. Write tests
-   1. Local Chain
-   2. Forked tests
-   3. Forked mainnet# foundry-smart-contract-lottery
